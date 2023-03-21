@@ -22,27 +22,14 @@ categorical and numeric values.
 
 
 Conclusion
-This Airbnb ('AB_NYC_2019') dataset for the 2019 year appeared to be a very rich dataset with a variety of
-columns that allowed us to dive deep into each significant column presented.
-To begin, firstly, we identified the data of top ten host_id and we figured out that top host ID has 327 listings.
-Secondly, we take "Neighbourhood_Group", and we found that Airbnb listings in New York City are
-concentrated in five neighborhoods: "Brooklyn," "Manhattan," "Queens," "Staten Island," and "Bronx".
-Moreover, we also learned from this chart that "Manhattan" and "Brooklyn" have the most hotel properties.
-Then, we found that Manhattan is the most expensive as the rental charges are more evenly distributed
-across all the price ranges, median price in Manhattan is approx $150 thats around double the median price
-of Bronx and the distributions in Queens and Staten Island appear to be very similar, while the Bronx
-appears to be the cheapest of the three.
-Thirdly, we take the data of "room_type" and figured out that it is devided into three subcategaries and we
-can observe that the Entire Home/Apartment has the highest share, followed by the Private Room, and the
-least preferred is Shared Room. Futhermore, entire Home/Apartment is listed most near Manhattan, while
-Private Rooms and Apartments Near Brooklyn are Nearly equal.
-Fourthly, we put our latitude and longitude columns to good use by creating a geographical map of Newyork
-city which represents the location of all the areas with their latitude and longtitude. In other map is Colorcoded for listing price of room as per the location.
-In addition, we returned to the first column "name" and found out the words from the hotel names, as well
-as the count for the most frequently used words by hosts. Hosts prefer to use Private
-rooms,brooklyn,central park,modern,nyc and Beautiful these words in their listing to seek customer
-attention.
-Finally, we looked for the listings with the "most reviews". Count the rating of top ten reviewed hotels, and
-found out The top 10 most reviewed listings on Airbnb for NYC have an average price of $65 per night, with
-the majority of them under 50, and 9/10 of them are "Private Room" types, with the top reviewed listing
-having 629 reviews.
+### Conclusion
+
+1. we identified the data of top ten host_id and we figured out that top host ID has 327 listings.
+
+2. If we take "Neighbourhood_Group", and we found that Airbnb listings in New York City are concentrated in five neighborhoods: "Brooklyn," "Manhattan," "Queens," "Staten Island," and "Bronx". Moreover, we also learned from this chart that "Manhattan" and "Brooklyn" have the most hotel properties. Then, we found that Manhattan is the most expensive as the rental charges are more evenly distributed across all the price ranges, median price in Manhattan is approx $150 thats around double the median price of Bronx and the distributions in Queens and Staten Island appear to be very similar, while the Bronx appears to be the cheapest of the three.
+
+3. If we take the data of "room_type" and figured out that it is devided into three subcategaries and we can observe that the Entire Home/Apartment has the highest share, followed by the Private Room, and the least preferred is Shared Room. Futhermore, entire Home/Apartment is listed most near Manhattan, while Private Rooms and Apartments Near Brooklyn are Nearly equal.
+
+4. If we put our latitude and longitude columns to good use by creating a geographical map of Newyork city which represents the location of all the areas with their latitude and longtitude. In other map is Color-coded for listing price of room as per the location.
+
+5. we looked for the listings with the "most reviews". Count the rating of top ten reviewed hotels, and found out The top 10 most reviewed listings on Airbnb for NYC have an average price of $65 per night, with the majority of them under 50, and 9/10 of them are "Private Room" types, with the top reviewed listing having 629 reviews.
