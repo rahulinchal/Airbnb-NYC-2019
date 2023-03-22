@@ -21,7 +21,7 @@ categorical and numeric values.
 ![airbnb-678x381-1](https://user-images.githubusercontent.com/111626329/226104694-233c91f9-4b50-495a-b276-2d5b06fd00a1.jpeg)
 
 
-Conclusion
+
 ### Conclusion
 
 1. we identified the data of top ten host_id and we figured out that top host ID has 327 listings.
