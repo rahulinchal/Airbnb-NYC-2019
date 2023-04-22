@@ -24,12 +24,12 @@ categorical and numeric values.
 
 ### Conclusion
 
-1. we identified the data of top ten host_id and we figured out that top host ID has 327 listings.
+1. We identified the data of the top ten host_id and we figured out that the top host ID has 327 listings.
 
-2. If we take "Neighbourhood_Group", and we found that Airbnb listings in New York City are concentrated in five neighborhoods: "Brooklyn," "Manhattan," "Queens," "Staten Island," and "Bronx". Moreover, we also learned from this chart that "Manhattan" and "Brooklyn" have the most hotel properties. Then, we found that Manhattan is the most expensive as the rental charges are more evenly distributed across all the price ranges, median price in Manhattan is approx $150 thats around double the median price of Bronx and the distributions in Queens and Staten Island appear to be very similar, while the Bronx appears to be the cheapest of the three.
+2. If we take "Neighbourhood_Group", we found that Airbnb listings in New York City are concentrated in five neighborhoods: "Brooklyn," "Manhattan," "Queens," "Staten Island," and "Bronx". Moreover, we also learned from this chart that "Manhattan" and "Brooklyn" have the most hotel properties. Then, we found that Manhattan is the most expensive as the rental charges are more evenly distributed across all the price ranges, the median price in Manhattan is approx $150 that's around double the median price of the Bronx and the distributions in Queens and Staten Island appear to be very similar, while the Bronx appears to be the cheapest of the three.
 
-3. If we take the data of "room_type" and figured out that it is devided into three subcategaries and we can observe that the Entire Home/Apartment has the highest share, followed by the Private Room, and the least preferred is Shared Room. Futhermore, entire Home/Apartment is listed most near Manhattan, while Private Rooms and Apartments Near Brooklyn are Nearly equal.
+3. If we take the data of "room_type" and figured out that it is divided into three subcategories and we can observe that the Entire Home/Apartment has the highest share, followed by the Private Room, and the least preferred is the Shared Room. Furthermore, Entire Home/Apartment is listed most near Manhattan, while Private Rooms and Apartments Near Brooklyn are Nearly equal.
 
-4. If we put our latitude and longitude columns to good use by creating a geographical map of Newyork city which represents the location of all the areas with their latitude and longtitude. In other map is Color-coded for listing price of room as per the location.
+4. If we put our latitude and longitude columns to good use by creating a geographical map of Newyork city which represents the location of all the areas with their latitude and longitude. In other map is Color-coded for a listing price of the room as per the location.
 
-5. we looked for the listings with the "most reviews". Count the rating of top ten reviewed hotels, and found out The top 10 most reviewed listings on Airbnb for NYC have an average price of $65 per night, with the majority of them under 50, and 9/10 of them are "Private Room" types, with the top reviewed listing having 629 reviews.
+5. We looked for the listings with the "most reviews". Count the rating of the top ten reviewed hotels, and found out The top 10 most reviewed listings on Airbnb for NYC have an average price of $65 per night, with the majority of them under 50, and 9/10 of them are "Private Room" types, with the top reviewed listing having 629 reviews.
